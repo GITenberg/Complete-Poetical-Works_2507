@@ -1,0 +1,29 @@
+_repo: Complete-Poetical-Works_2507
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: '- I. Poems and drama. New ed. 1885. - II. Earlier papers, Luck of roaring
+  camp, and other sketches. Bohemian papers. Spanish and American legends. - III.
+  Tales of the Argonauts, and Eastern sketches. - IV. Gabriel Conroy. -- v. Stories
+  and condensed novels.'
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+title: Complete Poetical Works
+url: http://www.gutenberg.org/ebooks/2507
