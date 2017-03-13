@@ -1,5 +1,8 @@
 _repo: Complete-Poetical-Works_2507
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -13,6 +16,8 @@ description: '- I. Poems and drama. New ed. 1885. - II. Earlier papers, Luck of 
   camp, and other sketches. Bohemian papers. Spanish and American legends. - III.
   Tales of the Argonauts, and Eastern sketches. - IV. Gabriel Conroy. -- v. Stories
   and condensed novels.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2507#Complete-Poetical-Works
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
 identifiers:
